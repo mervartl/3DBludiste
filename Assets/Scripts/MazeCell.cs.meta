@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 447dae0fb12aa3e47a56eb584e5bb2ab
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _leftWall: {instanceID: 0}
+  - _rightWall: {instanceID: 0}
+  - _frontWall: {instanceID: 0}
+  - _rearWall: {instanceID: 0}
+  - _unvisitedBlock: {instanceID: 0}
+  - _doorPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
